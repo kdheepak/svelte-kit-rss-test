@@ -2,4 +2,4 @@
   import { base } from '$app/paths'
 </script>
 
-<a href={base}>Root</a>
+<a href="{base}/">go to root</a>
